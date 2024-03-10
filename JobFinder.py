@@ -27,7 +27,7 @@ def test_jobfind(test_setup):
 # Initialize an empty list to store div texts
     div_texts = []
 
-# Define the number of pages (you can adjust this as needed)
+# Define the number of pages
     num_pages = 7
 
     for _ in range(num_pages):

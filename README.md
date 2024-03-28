@@ -5,4 +5,4 @@ This file contains the following steps:
 2. Create a list.
 3. Store all data (job's text + individual link) inside a list.
 4. Move to the next page and repeat until no "Next Page" button available.
-5. Print the data in a readable way using space and break lines.
+5. Print the data in a readable way using spaces and break lines.
